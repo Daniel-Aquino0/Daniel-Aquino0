@@ -1,0 +1,4 @@
+- 👋 Hi, I'm Daniel Aquino, but everyone calls me Aquino
+- 🌱 I'm currently learning Programming in Kotlin and developing a solution-oriented mindset for problem solving.
+- 💞️ I am looking to collaborate in areas of business management and planning
+- 📫 How to reach me -> dnielsouza887@gmail.com
